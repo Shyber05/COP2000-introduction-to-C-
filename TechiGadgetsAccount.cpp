@@ -1,8 +1,9 @@
-// Brandon Scheiber
-// COP2000 
-// Techi Gadgets Account program
-// This program reads a file and then it asks for the
-// users and password displaying them at the end
+/* Brandon 
+COP2000 
+Techi Gadgets Account program
+This program reads a file and then it asks for the
+users and password displaying them at the end
+*/
  
 #include <iostream>
 #include <fstream>

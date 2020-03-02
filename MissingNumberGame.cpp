@@ -1,8 +1,9 @@
-// Brandon Scheiber 
-// COP2000 Missing Number Game 04/09/2019
-// This Program will allow the user to play a game in which a
-// board will be displayed(3x4) There will be a missing number 
-// That the user will guess.
+/* Brandon HW5
+COP2000 Missing Number Game 04/09/2019
+This Program will allow the user to play a game in which a
+board will be displayed(3x4) There will be a missing number 
+That the user will guess.
+*/
 #include <iostream>
 #include <cstdlib>
 #include <iomanip>

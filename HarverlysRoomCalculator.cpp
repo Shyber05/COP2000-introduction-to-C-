@@ -1,4 +1,5 @@
-/*Brandon Scheiber COP2000
+/*
+Brandon COP2000
 Haverly's Room Calculator
 This Program will calculate the area of a
 room depending on the shape of the room

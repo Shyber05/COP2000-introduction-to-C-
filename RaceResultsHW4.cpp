@@ -1,5 +1,5 @@
 /*
-Brandon Scheiber COP2000
+Brandon COP2000
 HW 4: Race Results Program
 Purpose:
 This Program will allow you to enter three racing times and names to determine
