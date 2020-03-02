@@ -1,4 +1,5 @@
-/* Brandon Scheiber
+/* 
+Brandon 
 COP2000- HW #1
 Malachi's Pie shop Program
 This program's purpose is to ouput the recipe for a given number of pies.
